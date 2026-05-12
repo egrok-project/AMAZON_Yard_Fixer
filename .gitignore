@@ -1,0 +1,11 @@
+# Data files - stay local
+*.csv
+fc_hours.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
